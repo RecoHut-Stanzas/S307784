@@ -1,2 +1,2 @@
-# S307784
-Real-time event capturing with Kafka and MongoDB
+
+Short Tutorial - https://youtu.be/AMY-o4ArW7E
