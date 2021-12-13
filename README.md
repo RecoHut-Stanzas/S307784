@@ -3,14 +3,14 @@
 ## Project structure
 ```
 .
-├── [ 22K]  images
-│   ├── [1.7K]  S307784 | Real-time event capturing with Kafka and MongoDB.drawio
-│   └── [ 17K]  S307784 | Real-time event capturing with Kafka and MongoDB.drawio.svg
+├── [1.3M]  images
 ├── [ 86K]  nbs
 │   ├── [ 47K]  Kafka Consumer.ipynb
 │   ├── [9.9K]  Kafka Producer.ipynb
 │   └── [ 25K]  MongoDB Listener.ipynb
-└── [  46]  README.md
+├── [ 517]  README.md
+└── [ 23K]  reports
+    └── [ 19K]  S307784_report.ipynb
 
- 112K used in 2 directories, 6 files
+ 1.4M used in 3 directories, 34 files
  ```
